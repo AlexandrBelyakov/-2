@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Семинар2\ДЗ\bin\Debug\net6.0\ДЗ.exe
+C:\Users\user\Desktop\Семинар2\ДЗ\bin\Debug\net6.0\ДЗ.deps.json
+C:\Users\user\Desktop\Семинар2\ДЗ\bin\Debug\net6.0\ДЗ.runtimeconfig.json
+C:\Users\user\Desktop\Семинар2\ДЗ\bin\Debug\net6.0\ДЗ.dll
+C:\Users\user\Desktop\Семинар2\ДЗ\bin\Debug\net6.0\ДЗ.pdb
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfo.cs
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.dll
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\refint\ДЗ.dll
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.pdb
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ДЗ.genruntimeconfig.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\obj\Debug\net6.0\ref\ДЗ.dll
