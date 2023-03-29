@@ -15,4 +15,4 @@ Console.WriteLine($"Да");
     {
     Console.WriteLine($"Нет");
     }
-    
+    // 
