@@ -4,3 +4,4 @@ int result = (num % 100 ) / 10;
 Console.WriteLine($"{num} -> {result}");
 // 
 // 
+// 
