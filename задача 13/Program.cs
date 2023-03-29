@@ -19,3 +19,4 @@ int num2 = num;
     {
     Console.WriteLine($"{num} Третьего числа нет");
     }
+    // 
