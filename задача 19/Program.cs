@@ -17,3 +17,4 @@ else
 {
     Console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
 }
+// 
