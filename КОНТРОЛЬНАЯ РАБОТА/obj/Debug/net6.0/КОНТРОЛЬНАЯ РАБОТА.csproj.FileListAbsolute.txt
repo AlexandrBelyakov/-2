@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\bin\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.exe
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\bin\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.deps.json
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\bin\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.runtimeconfig.json
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\bin\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.dll
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\bin\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.pdb
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.AssemblyInfo.cs
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.dll
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\refint\КОНТРОЛЬНАЯ РАБОТА.dll
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.pdb
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\КОНТРОЛЬНАЯ РАБОТА.genruntimeconfig.cache
+C:\Users\user\Desktop\Семинар2\ДЗ\КОНТРОЛЬНАЯ РАБОТА\obj\Debug\net6.0\ref\КОНТРОЛЬНАЯ РАБОТА.dll
